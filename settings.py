@@ -1,1 +1,1 @@
-greeting = "Hello from main"
+greeting = "Hello from conflict-branch"
