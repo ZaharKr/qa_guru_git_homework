@@ -1,9 +1,5 @@
-# QA Guru — Git / GitHub homework
+# qa_guru_git_homework
 
-Учебный репозиторий для практики Git и GitHub.
+Практика Git / GitHub.
 
-## Что сделано
-- SSH-ключ добавлен в GitHub
-- Флоу: `git init` → `add` → `commit` → `remote` → `push -u`
-- Pull Request с конфликтом (merge заблокирован)
-- Откат изменений через `git revert`
+Есть PR с конфликтом и пример revert на main.
